@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- basic  colors -->
+
+    <color name="yellow">#FFFF00</color>
+    <color name="dark_blue">#0000FF</color>
+    <color name="sky_blue">#87CEEB</color>
+    <color name="green">#00FF00</color>
+    <color name="dark_green">#013220</color>
+    <color name="red">#FF0000</color>
+    <color name="orange">#FFA500</color>
+    <color name="aqua">#00FFFF</color>
+    <color name="magenta">#FF00FF</color>
+    <color name="brown">#A52A2A</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <!--     pastel  colors -->
+    <color name="pastel_pink">#F2ACB9</color>
+    <color name="lilac">#E0AED0</color>
+    <color name="beige">#EEE1C6</color>
+    <color name="pastel_yellow">#E9EC6B</color>
+    <color name="pastel_blue">#8BD3E6</color>
+    <color name="pastel_purple">#B1A2CA</color>
+    <color name="pastel_red">#FF6D6A</color>
+    <color name="pistachio">#BAFFC9</color>
+    <color name="pastel_orange">#FBBB62</color>
+
+    <string-array name="colors">
+        <item>#FF0000</item>
+        <item>#FFA500</item>
+        <item>#FFFF00</item>
+        <item>#00FF00</item>
+        <item>#0000FF</item>
+        <item>#FF00FF</item>
+        <item>#A52A2A</item>
+        <item>#FF000000</item>
+        <item>#FFFFFFFF</item>
+
+        <item>#FF6D6A</item>
+        <item>#FBBB62</item>
+        <item>#E9EC6B</item>
+        <item>#BAFFC9</item>
+        <item>#8BD3E6</item>
+        <item>#F2ACB9</item>
+        <item>#B1A2CA</item>
+        <item>#E0AED0</item>
+        <item>#EEE1C6</item>
+
+    </string-array>
+
+</resources>
